@@ -14,7 +14,7 @@ This repository contains the UI/UX design tasks completed during my 1-month UI/U
 
 ## 🔗 Design & Prototype Links
 - **Figma Project Link:** https://www.figma.com/design/19HvZogVVj0BawG2HBJl1H/Untitled?node-id=0-1&t=Y2Mz6r9TP70P7yTW-1
-- **GitHub Repository:** [Paste this GitHub Repo URL Here]
+- **GitHub Repository:** https://github.com/Yenuli2244/CodeOrbit_FlameFoods_UIUX.git
 
 ## 🚀 How to View
 1. Click on the exported or `.pdf` files in this repository to view the high-resolution designs and wireframes.
