@@ -17,5 +17,5 @@ This repository contains the UI/UX design tasks completed during my 1-month UI/U
 - **GitHub Repository:** https://github.com/Yenuli2244/CodeOrbit_FlameFoods_UIUX.git
 
 ## 🚀 How to View
-1. Click on the exported or `.pdf` files in this repository to view the high-resolution designs and wireframes.
+1. Click on the exported `.pdf` files in this repository to view the high-resolution designs and wireframes.
 2. Open the Figma link above to inspect layers, spacing, and components directly.
